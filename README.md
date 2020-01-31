@@ -10,6 +10,3 @@ props,
 component, 
 JSX,
 etc...
-
-regarad Anurag
-
